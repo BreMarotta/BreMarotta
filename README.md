@@ -1,5 +1,4 @@
-![](../../../../mnt/c/Users/BreMa/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Users/BreMa/Downloads/Orange%20Ebb%20and%20Flow%20Abstract%20LinkedIn%20Banner%20(2).png)
-
+<img src="images/Orange Ebb and Flow Abstract LinkedIn Banner (2).png" />
 ### Hi there 👋
 <!--
 **BreMarotta/BreMarotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
