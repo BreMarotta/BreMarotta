@@ -13,7 +13,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bremarotta/) |  [Portfolio](https://bremarotta.wixsite.com/breanne) | [Blog](https://medium.com/@bremarotta) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I drove a school bus for four years (and I have some fun stories to tell)
-
+<p>
 <img height="40" src="images/javascript.svg">
 <img height="40" src="images/react.svg">
 <img height="40" src="images/redux.svg">
@@ -22,6 +22,7 @@
 <img height="40" src="images/postgresql.svg">
 <img height="40" src="images/html5.svg">
 <img height="40" src="images/css3.svg">
+</p>
 
 
 
