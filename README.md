@@ -1,4 +1,4 @@
-# ![Breanne Marotta - Software Engineer](<img src=")https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+# ![Breanne Marotta - Software Engineer](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 ### Hi there 👋
 
 <!--
