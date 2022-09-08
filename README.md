@@ -14,7 +14,7 @@
 - 😄 Pronouns: she/her
 ## ⚡ Fun fact: I drove a school bus for four years (and I have some fun stories to tell )
 
-<img src="images/Orange Ebb and Flow Abstract LinkedIn Banner (3).png">
+<img src="images/Orange Ebb and Flow Abstract LinkedIn Banner (4).png">
 
 
 
