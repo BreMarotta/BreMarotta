@@ -14,14 +14,14 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I drove a school bus for four years (and I have some fun stories to tell)
 <p>
-<img height="40" src="images/javascript.svg">
-<img height="40" src="images/react.svg">
-<img height="40" src="images/redux.svg">
-<img height="40" src="images/ruby.svg">
-<img height="40" src="images/rubyonrails.svg">
-<img height="40" src="images/postgresql.svg">
-<img height="40" src="images/html5.svg">
-<img height="40" src="images/css3.svg">
+<img height="40" style="color:#F7DF1E;" src="images/javascript.svg">
+<img height="40" style="color:#61DAFB;" src="images/react.svg">
+<img height="40" style="color:#764ABC;" src="images/redux.svg">
+<img height="40" style="color:#CC342D;" src="images/ruby.svg">
+<img height="40" style="color:#CC0000;" src="images/rubyonrails.svg">
+<img height="40" style="color:#4169E1;" src="images/postgresql.svg">
+<img height="40" style="color:#E34F26;" src="images/html5.svg">
+<img height="40" style="color:#1572B6;" src="images/css3.svg">
 </p>
 
 
