@@ -1,4 +1,4 @@
-<img src="images/Orange Ebb and Flow Abstract LinkedIn Banner (2).png" />
+<img src="images/Breanne Marotta (5).png" />
 
 ### Hi there 👋
 
@@ -12,15 +12,15 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bremarotta/) |  [Portfolio](https://bremarotta.wixsite.com/breanne) | [Blog](https://medium.com/@bremarotta) 
 - 😄 Pronouns: she/her
-## ⚡ Fun fact: I drove a school bus for four years (and I have some fun stories to tell )
-<p>
+## ⚡ Fun fact: I drove a school bus for four years (and I have some fun stories to tell ) 🚌
+
 
 [![Breanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreMarotta&hide=contribs,prs,issues)](https://github.com/bremarotta/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreMarotta&hide=Procfile&layout=compact)](https://github.com/BreMarotta/github-readme-stats)
-</p>
-<img src="images/Orange Ebb and Flow Abstract LinkedIn Banner (4).png">
 
+
+<img src="images/Orange Ebb and Flow Abstract LinkedIn Banner (4).png">
 
 
 
