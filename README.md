@@ -4,7 +4,7 @@
 
 ### My name is Breanne Marotta and I am a recent graduate of Flatiron School. I am a software engineer looking to launch a new career. 
 
-- 🔭 I’m currently working on a site for a locally owned coffee shop.
+- 🔭 I’m currently working on a site for a locally owned coffee shop and building an app for my son (he is trying to learn all of the THINGS right now. I'm going to develop something for him to keep track of what he's learning, resources, quotes, and questions).
 
 - 🌱 I’m currently learning new options for hosting deployed projects. In the past I have used Heroku.
 
