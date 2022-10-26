@@ -2,13 +2,14 @@
 
 ### Hi there 👋
 
-### My name is Breanne Marotta and I am a recent graduate of Flatiron School. I am a software engineer looking to launch a new career. 
+## My name is Breanne Marotta and I am a graduate of Flatiron School. I am a software engineer looking to launch a new career. 
 
-- 🔭 I’m currently working on a site for a locally owned coffee shop and building an app for my son (he is trying to learn all of the THINGS right now. I'm going to develop something for him to keep track of what he's learning, resources, quotes, and questions).
 
-- 🌱 I’m currently learning new options for hosting deployed projects. In the past I have used Heroku.
+- 🌱 I’m currently studying data structures and algorithms. I'm taking a Udemy course and doing research as I work through daily Leet Code challenges. 
 
 - 👯 I’m looking to collaborate on projects with a focus on front-end development. I am intested in expanding my understanding of React and Redux.
+
+- 🤔 I’m looking for help with branching, merging, and effective usage of github as a collaborative workspace. 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bremarotta/) |  [Portfolio](https://bremarotta.wixsite.com/breanne) | [Blog](https://medium.com/@bremarotta) 
 - 😄 Pronouns: she/her
