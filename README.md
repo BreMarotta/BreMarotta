@@ -5,7 +5,9 @@
 ## My name is Breanne Marotta and I am a graduate of Flatiron School. I am a software engineer looking to launch a new career. 
 
 
-- 🌱 I’m currently studying data structures and algorithms. I'm taking a Udemy course and doing research as I work through daily Leet Code challenges. 
+- 🔭 I’m currently working with a startup in Arizona. I'm learning React Native and making contributions to an app. 
+
+- 🌱 I’m starting to study Java and Angular.  
 
 - 👯 I’m looking to collaborate on projects with a focus on front-end development. I am intested in expanding my understanding of React and Redux.
 
